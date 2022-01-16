@@ -1,0 +1,35 @@
+- email: bruns-smith@berkeley.edu
+  image: "assets/staff/david.jpeg"
+  oh_info:
+  - "TBD"
+  name: David Bruns-Smith
+
+- email: tiffany_ding@berkeley.edu
+  image: "assets/staff/tiffany.jpeg"
+  oh_info:
+  - "TBD"
+  name: Tiffany Ding
+
+- email: rdoshi99@berkeley.edu
+  image: "assets/staff/ruhi.jpeg"
+  oh_info:
+  - "TBD"
+  name: Ruhi Doshi
+
+- email: rikiiyer@berkeley.edu
+  image: "assets/staff/ritvik.jpeg"
+  oh_info:
+  - "TBD"
+  name: Ritvik Iyer
+
+- email: ischmidt20@berkeley.edu
+  image: "assets/staff/isaac.jpg"
+  oh_info:
+  - "TBD"
+  name: Isaac Schmidt
+
+- email: shetty@berkeley.edu
+  image: "assets/staff/.jpeg"
+  oh_info:
+  - "TBD"
+  name: Abhishek Shetty
