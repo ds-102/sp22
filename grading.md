@@ -30,7 +30,7 @@ Grades will be assigned using the following weighted components:
 ### Grading criteria
 
 * Vitamins are weekly short assignments to check that you are keeping up with lectures. Vitamins should take fewer than 15 minutes to complete. Your two lowest vitamin scores will be dropped.
-* Homework will be graded on completion and correctness. No assignment may be dropped, but we will have a slip day policy (see below).
+* Homework will be graded on completion and correctness. No assignment may be dropped, but we have a lenient extension policy (see below).
 * Lab assignments will be graded on completion and correctness, but all test cases for autograded questions will be public. Your two lowest lab scores will be dropped.
 * A grading rubric and more details regarding the final project will be released later in the semester.
 

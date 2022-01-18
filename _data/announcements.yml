@@ -1,9 +1,9 @@
 #  This file contains the course announcements in reverse chronological order.
 # Note that only the most recent (topmost) announcement is rendered.
 
-- date: 1/15/2022
+- date: 1/18/2022
   text: |
-    - Welcome to Data 102! All information on this website is currently subject to change, we will remove this reminder once we have finalized our policies.
+    - Welcome to Data 102! All future announcements will be made on the course Ed.
 
 # Example
 # - date: 1/16/2018
