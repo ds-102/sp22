@@ -42,13 +42,11 @@ There will be two midterms on February 24, 2022, and April 14, 2022. Midterms wi
 
 Exams will tentatively be held in person. Further information will be communicated in due course.
 
-## Slip Days
+## Late Policy
 
-Each student gets an extension budget of 5 total slip days. You can use the extension on homework assignments only (not lab assignments, weekly vitamins, or the final project) during the semester. Do not plan to use your slip-time; it is there for unforeseen circumstances. These are rounded up, so if you are 1 hour late, then 1 slip day will be used. (Why? We’d rather you get some sleep and make an attempt to finish the assignment the next day instead of staying up to micromanage hours.)
+We strongly encourage you to turn in assignments on time. We plan course staff availability (office hours, time spent on Ed, etc.) based on the due dates: specifically, around homework being due Friday.
 
-After you have used your slip-time budget, any assignment handed in late will be marked off 20% per day late (rounded up to the nearest integer number of days). No assignment will be accepted more than 5 days late.
-
-We know that we’re still in an unprecedented global pandemic and economic downturn: If you **already use up your 5 slip days** in the semester and you are facing extenuating circumstances or unusual hardship, you can contact us for extra slip days. We’re here to help!
+We know that we’re still in an unprecedented global pandemic: unforeseen circumstances beyond your control can and will come up, and so we offer a self-serve extension of up to 3 days on all homework assignments. You may turn in any homework assignment up to 3 days after the due date and still receive full credit. Please don't plan to turn in all your homework assignments 3 days late: to help allocate course staff time and for the well-being of our course staff, we won't have as much availability to answer questions after the assignment is due.
 
 For information on DSP accommodations, please refer to the course Ed site.
 
