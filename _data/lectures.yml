@@ -30,15 +30,19 @@
 
 - date: Tuesday 1/18/22
   topic: Course Overview, Making Decisions Under Uncertainty
-  description:
+  resources: |
+    - [Artificial Intelligence — The Revolution Hasn’t Happened Yet](https://hdsr.mitpress.mit.edu/pub/wot7mkc1)
+    - (Optional) Discussion of the above article by nine commentators [1](https://hdsr.mitpress.mit.edu/pub/djb16hzl?readingCollection=72befc2a), [2](https://hdsr.mitpress.mit.edu/pub/kyzf7fjv?readingCollection=72befc2a), [3](https://hdsr.mitpress.mit.edu/pub/rim3pvdw?readingCollection=72befc2a), [4](https://hdsr.mitpress.mit.edu/pub/pqddq8u5?readingCollection=72befc2a), [5](https://hdsr.mitpress.mit.edu/pub/wiq01ru6?readingCollection=72befc2a), [6](https://hdsr.mitpress.mit.edu/pub/pjebp7io?readingCollection=72befc2a), [7](https://hdsr.mitpress.mit.edu/pub/plto69bh?readingCollection=72befc2a)
+    - (Optional video) [Prof. Michael Jordan's perspective on data science](https://www.youtube.com/watch?v=sgB1RCOYV0M)
+    - (Optional) [What are the most important statistical ideas of the past 50 years?](https://arxiv.org/pdf/2012.00174)
+  slides: |
+      - [Slides (part 1)](https://docs.google.com/presentation/d/1qzFhrPeRKxa35Qa4EBsjBfiZam1-UN7HfMjTfen1K1U/edit?usp=sharing)
 
 - date: Thursday 1/20/22
   topic: Binary Decision-Making
-  description: We discuss concepts like TPR, FPR and FDP.
 
 - date: Tuesday 1/25/22
   topic: P-Values and Multiple Hypothesis Testing
-  description: We define p-values, introduce the problem of multiple hypothesis testing, and talk about the Bonferroni and Benjamini-Hochberg procedures for addressing it.
 
 - date: Thursday 1/27/22
   topic: Online False Discovery Rate Control & ROC curves

@@ -57,6 +57,10 @@ For information on DSP accommodations, please refer to the course Ed site.
 
 Data science is a collaborative activity. While you may talk with others about the homework, we ask that you write your solutions individually. If you do discuss the assignments with others please include their names at the top of your notebook. Keep in mind that content from the homeworks and labs will likely be covered on both of the midterms. We will be following the EECS departmental policy on Academic Honesty, so be sure you are familiar with it.
 
+## Waitlist
+
+If you are on the waitlist, you should complete and submit all assignments as if enrolled: we will not offer any makeup assignments for waitlisted students.
+
 ## We Want You to Succeed
 
 If you are feeling overwhelmed, visit our office hours and talk with us. We know college can be stressful and we want to help you succeed!
