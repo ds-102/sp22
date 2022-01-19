@@ -34,13 +34,11 @@ All course announcements will be made on Ed.
 **Contacting Course Staff**: The best way to contact course staff is using Ed, using a private post as needed—we'll be checking it regularly and should respond to most questions within a day or less. If you need to reach out to course staff and Ed isn't suitable, you can email [data102@berkeley.edu], and you should get a response within a few days. **Please avoid emailing professors or GSIs directly!**
 
 
-## Office Hour Schedule
+## Office Hour, Lab, and Discussion Schedule
 
-Please see [Ed posts](TBA) for Zoom links for remote OHs.
+Please see [Ed posts](TBA) for Zoom links for remote events.
 
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FLos_Angeles&mode=WEEK&src=Y19tc29wcmpjNmRzZWxlZGI4ZzBqNDd2azA0NEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%237CB342" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-
-For official holidays see the [academic calendar](https://registrar.berkeley.edu/calendar).
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FLos_Angeles&title=Data%20102&mode=WEEK&src=Y19kaWZpMzY0dmF1aXJ0MnNiMWRvdTFqYWozb0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=Y19vbjhpdnRzajhoNnFsaTQ5OHUxMDczOWxpZ0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=Y19tc29wcmpjNmRzZWxlZGI4ZzBqNDd2azA0NEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23F09300&color=%23E4C441&color=%237CB342" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 
 ## Prerequisites
