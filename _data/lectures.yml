@@ -36,13 +36,15 @@
     - (Optional video) [Prof. Michael Jordan's perspective on data science](https://www.youtube.com/watch?v=sgB1RCOYV0M)
     - (Optional) [What are the most important statistical ideas of the past 50 years?](https://arxiv.org/pdf/2012.00174)
   slides: |
-      - [Slides (part 1)](https://docs.google.com/presentation/d/1qzFhrPeRKxa35Qa4EBsjBfiZam1-UN7HfMjTfen1K1U/edit?usp=sharing)
+      - [Slides](https://docs.google.com/presentation/d/1qzFhrPeRKxa35Qa4EBsjBfiZam1-UN7HfMjTfen1K1U/edit?usp=sharing)
+      - [Annotated](https://drive.google.com/file/d/1xfpXIdIjPS9kKtN39qKqhamWLwH4sTTb/view?usp=sharing)
   video: https://youtu.be/xTpoJm_5_w4
 
 - date: Thursday 1/20/22
   topic: Binary Decision-Making
   slides: |
       - [Slides](https://docs.google.com/presentation/d/1weuUwUsvHtmpUwqSafmOKbDd28cyCWwMvfpxqIGNZ-I/edit#slide=id.p)
+      - [Annotated](https://drive.google.com/file/d/1vecb7edZohhKhfEH-ocisaDB5dy59PwG/view?usp=sharing)
 
 - date: Tuesday 1/25/22
   topic: P-Values and Multiple Hypothesis Testing
