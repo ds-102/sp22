@@ -48,7 +48,7 @@ We strongly encourage you to turn in assignments on time. We plan course staff a
 
 We know that we’re still in an unprecedented global pandemic: unforeseen circumstances beyond your control can and will come up, and so we offer a self-serve extension of up to 3 days on all homework assignments. You may turn in any homework assignment up to 3 days after the due date and still receive full credit. Please don't plan to turn in all your homework assignments 3 days late: to help allocate course staff time and for the well-being of our course staff, we won't have as much availability to answer questions after the assignment is due.
 
-For information on DSP accommodations, please refer to the course Ed site.
+DSP students eligible to receive extensions on assignments will have homeworks due 48 hours after the posted deadline, and will receive the above 3-day grace period as well. Labs and vitamins will be due 24 hours after the posted deadline, with no grace period.
 
 
 ## Collaboration Policy
