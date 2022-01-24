@@ -46,6 +46,8 @@
       - [Slides](https://docs.google.com/presentation/d/1weuUwUsvHtmpUwqSafmOKbDd28cyCWwMvfpxqIGNZ-I/edit#slide=id.p)
       - [Annotated](https://drive.google.com/file/d/1vecb7edZohhKhfEH-ocisaDB5dy59PwG/view?usp=sharing)
   video: https://youtu.be/xx0DZzSliBE
+  lab: |
+      - [Lab 0](https://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Fsp22&urlpath=tree%2Fsp22%2Flabs&branch=master)
 
 - date: Tuesday 1/25/22
   topic: P-Values and Multiple Hypothesis Testing
