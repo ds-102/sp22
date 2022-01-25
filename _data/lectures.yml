@@ -52,6 +52,8 @@
 - date: Tuesday 1/25/22
   topic: P-Values and Multiple Hypothesis Testing
   homework: HW 1 (due 2/4)
+  discussion: |
+    - [Discussion 1](assets/discussion/disc1.pdf)
 
 - date: Thursday 1/27/22
   topic: Online False Discovery Rate Control & ROC curves
