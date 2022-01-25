@@ -1,1 +1,17 @@
+- email: aneeshdidwania@berkeley.edu
+  image: "assets/staff/aneesh.jpg"
+  oh_info:
+  - "OH: TBD"
+  name: Aneesh Didwania
 
+- email: mgu2001@berkeley.edu
+  image: "assets/staff/michelle.jpg"
+  oh_info:
+  - "OH: TBD"
+  name: Michelle Gu
+
+- email: nabeel126@berkeley.edu
+  image: "assets/staff/nabeel.jpg"
+  oh_info:
+  - "OH: TBD"
+  name: Nabeel Hingun
