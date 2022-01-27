@@ -63,7 +63,9 @@
 
 - date: Thursday 1/27/22
   topic: Online False Discovery Rate Control & ROC curves
-  description:
+  slides: |
+      - [Slides](https://docs.google.com/presentation/d/1wJgSjPG61ROMzpoePkvR5GfziDpgM_P6oVnQDo8WhXI/edit?usp=sharing)
+      - [Demo Notebook](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp22&subPath=lecture/lecture04/lecture04.ipynb)
 
 - date: Tuesday 2/1/22
   topic: Frequentist vs. Bayesian Decision-Making
