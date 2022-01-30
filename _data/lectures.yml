@@ -67,6 +67,8 @@
       - [Slides](https://docs.google.com/presentation/d/1wJgSjPG61ROMzpoePkvR5GfziDpgM_P6oVnQDo8WhXI/edit?usp=sharing)
       - [Demo Notebook](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp22&subPath=lecture/lecture04/lecture04.ipynb)
   video: https://youtu.be/YJO0CHsU7BM
+  lab: |
+      - [Lab 1](https://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Fsp22&urlpath=tree%2Fsp22%2Flabs%2Flab01%2Flab01.ipynb&branch=master)
 
 - date: Tuesday 2/1/22
   topic: Frequentist vs. Bayesian Decision-Making
