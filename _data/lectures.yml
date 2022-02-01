@@ -73,6 +73,8 @@
 - date: Tuesday 2/1/22
   topic: Frequentist vs. Bayesian Decision-Making
   description:
+  slides: |
+      - [Slides](https://docs.google.com/presentation/d/1be2tkZlc0a-M9yb8IUq1X0Tz4Zu6NfFL252G0whEBqw/edit?usp=sharing)
 
 - date: Thursday 2/3/22
   topic: Overview of Bayesian Modeling
