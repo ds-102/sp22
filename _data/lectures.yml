@@ -86,6 +86,8 @@
   slides: |
       - [Slides](https://docs.google.com/presentation/d/10DBzmtiqWdOl2nXsUYj4sLd185aicRB2tnAGNc7oi3s/edit?usp=sharing)
       - [Notes and demo](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp22&subPath=lecture/lecture06/parameter_estimation.ipynb)
+  lab: |
+      - [Lab 2](https://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Fsp22&urlpath=tree%2Fsp22%2Flabs%2Flab02%2Flab02.ipynb&branch=master)
 
 - date: Tuesday 2/8/22
   topic: Graphical Models
