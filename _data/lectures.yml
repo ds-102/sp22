@@ -89,7 +89,8 @@
 
 - date: Tuesday 2/8/22
   topic: Graphical Models
-  homework: HW 2 (due 2/18)
+  homework: |
+      - [HW 2](assets/homework/hw2.zip)
 
 - date: Thursday 2/10/22
   topic: Rejection Sampling and Markov Chains
