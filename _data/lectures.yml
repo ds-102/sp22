@@ -98,7 +98,9 @@
       - [HW 2](assets/homework/hw2.zip)
   slides: |
       - [Slides](https://docs.google.com/presentation/d/1X1wDH6l0NOrVdDcjaJLg4LPQmB3EaDiRgvPj1Bg9t1s/edit?usp=sharing)
+      - [Slides (annotated)](assets/notes/lec07slides_annotated.pdf)
       - [Demo](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp22&subPath=lecture/lecture07/lecture07.ipynb)
+  video: https://youtu.be/IhPwFO4zwAU
 
 - date: Thursday 2/10/22
   topic: Rejection Sampling and Markov Chains
