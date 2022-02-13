@@ -5,6 +5,17 @@ title: "Resources"
 
 We will be posting all lecture materials on the course syllabus.
 
+## Exam Resources
+
+| Semester | Midterm (1) | Midterm 2 | Final |
+| -- | -- | -- | -- |
+| Fall 2021 | Exam (coming soon) [(Solutions)](assets/exam/mt1/fa21_mt1_sol.pdf) |  |  |
+| Spring 2021 | [Exam](assets/exam/mt1/sp21_mt1.pdf) [(Solutions)](assets/exam/mt1/sp21_mt1_sol.pdf) | [Exam](assets/exam/mt2/sp21_mt2.pdf) [(Solutions)](assets/exam/mt2/sp21_mt2_sol.pdf) |  |
+| Fall 2020 | [Exam](assets/exam/mt1/fa20_mt.pdf) [(Solutions)](assets/exam/mt1/fa20_mt_sol.pdf) |  | [Exam](assets/exam/final/fa20_final.pdf) [(Solutions)](assets/exam/final/fa20_final_sol.pdf) |
+| Spring 2020 | [Exam](assets/exam/mt1/sp20_mt.pdf) [(Solutions)](assets/exam/mt1/sp20_mt_sol.pdf) | | |
+| Fall 2019 | [Exam](assets/exam/mt1/fa19_mt.pdf) [(Solutions)](assets/exam/mt1/fa19_mt_sol.pdf) |  | [Exam](assets/exam/final/fa19_final.pdf) [(Solutions)](assets/exam/final/fa19_final_sol.pdf) |
+
+
 Here is a collection of resources that may help you learn more about various concepts and skills covered in the class.  Learning by reading is a key part of being a well-rounded data scientist.  We will not assign mandatory reading but instead encourage you to look at these materials.
 
 ## Web References
