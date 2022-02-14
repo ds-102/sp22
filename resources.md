@@ -9,7 +9,7 @@ We will be posting all lecture materials on the course syllabus.
 
 | Semester | Midterm (1) | Midterm 2 | Final |
 | -- | -- | -- | -- |
-| Fall 2021 | Exam (coming soon) [(Solutions)](assets/exam/mt1/fa21_mt1_sol.pdf) |  |  |
+| Fall 2021 | [Exam](assets/exam/mt1/fa21_mt1.pdf) [(Solutions)](assets/exam/mt1/fa21_mt1_sol.pdf) |  |  |
 | Spring 2021 | [Exam](assets/exam/mt1/sp21_mt1.pdf) [(Solutions)](assets/exam/mt1/sp21_mt1_sol.pdf) | [Exam](assets/exam/mt2/sp21_mt2.pdf) [(Solutions)](assets/exam/mt2/sp21_mt2_sol.pdf) |  |
 | Fall 2020 | [Exam](assets/exam/mt1/fa20_mt.pdf) [(Solutions)](assets/exam/mt1/fa20_mt_sol.pdf) |  | [Exam](assets/exam/final/fa20_final.pdf) [(Solutions)](assets/exam/final/fa20_final_sol.pdf) |
 | Spring 2020 | [Exam](assets/exam/mt1/sp20_mt.pdf) [(Solutions)](assets/exam/mt1/sp20_mt_sol.pdf) | | |
