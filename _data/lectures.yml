@@ -118,6 +118,9 @@
   description:
   discussion: |
     - [Discussion 4](assets/discussion/disc4.pdf)
+  slides: |
+      - [Slides](https://docs.google.com/presentation/d/1CpZ-r3NWK_cFjj5aQkou3C7YP0h6STeJE0awNWF1a50/edit?usp=sharing)
+      - [Gibbs sampling demo](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp22&subPath=lecture/lecture09/gibbs_sampling.ipynb)
 
 - date: Thursday 2/17/22
   topic: Regression and GLMs
