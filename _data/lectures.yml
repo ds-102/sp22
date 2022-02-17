@@ -126,6 +126,9 @@
 - date: Thursday 2/17/22
   topic: Regression and GLMs
   description:
+  slides: |
+      -[Slides](https://docs.google.com/presentation/d/1vgWqQ8lc7qKtBh8xJtkQDOYaBzSUTjfHfV2ZtTF50rs/edit?usp=sharing)
+      -[Demo](https://data102.datahub.berkeley.edu/user/nika/tree/sp22/lecture/lecture10)
 
 - date: Tuesday 2/22/22
   topic: Model checking for GLMs
