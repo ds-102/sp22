@@ -129,6 +129,7 @@
   slides: |
       - [Slides](https://docs.google.com/presentation/d/1vgWqQ8lc7qKtBh8xJtkQDOYaBzSUTjfHfV2ZtTF50rs/edit?usp=sharing)
       - [Demo](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp22&subPath=lecture/lecture10/)
+  video: https://youtu.be/_4Z9UvZFnMM
 
 - date: Tuesday 2/22/22
   topic: Model checking for GLMs
