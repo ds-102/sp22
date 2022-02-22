@@ -137,6 +137,9 @@
 - date: Tuesday 2/22/22
   topic: Model checking for GLMs
   description:
+  slides: |
+      - [Slides](https://docs.google.com/presentation/d/1_rkPqS4ENG9Bc3pB8eVpOvYA2ZokI-Uh0LhWWc6laGc/edit#slide=id.g115c6b11bf1_22_0)
+      - [Demo](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp22&subPath=lecture/lecture11/)
 
 - date: Thursday 2/24/22
   topic: Midterm 1
