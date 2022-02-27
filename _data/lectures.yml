@@ -144,6 +144,8 @@
 
 - date: Thursday 2/24/22
   topic: Midterm 1
+  lab: |
+      - [Lab 5](https://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Fsp22&urlpath=tree%2Fsp22%2Flabs%2Flab05%2Flab05.ipynb&branch=master)
 
 - date: Tuesday 3/1/22
   topic: Uncertainty quantification for GLMs
