@@ -151,6 +151,8 @@
   topic: Uncertainty quantification for GLMs
   homework: |
       - [HW 3](assets/homework/hw3.zip)
+  discussion: |
+      - [Discussion 5](assets/discussion/disc5.pdf)
 
 - date: Thursday 3/3/22
   topic: Nonparametric Methods and Neural Networks
