@@ -149,7 +149,8 @@
 
 - date: Tuesday 3/1/22
   topic: Uncertainty quantification for GLMs
-  homework: HW 3 (due 3/11)
+  homework: |
+      - [HW 3](assets/homework/hw3.zip)
 
 - date: Thursday 3/3/22
   topic: Nonparametric Methods and Neural Networks
