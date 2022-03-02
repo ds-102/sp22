@@ -151,11 +151,12 @@
   topic: Uncertainty quantification for GLMs
   slides: |
       - [Slides](https://docs.google.com/presentation/d/1hZjHKM1SGtAwXbloUkX3KlU2QXQU6RUGcqgZ6MYz4zA/edit?usp=sharing)
-      - [Demo](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp22&subPath=lecture/lecture12/)
+      - [Demo](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp22&subPath=lecture/lecture12/bootstrap_new.ipynb)
   homework: |
       - [HW 3](assets/homework/hw3.zip)
   discussion: |
       - [Discussion 5](assets/discussion/disc5.pdf)
+  video: https://youtu.be/uk9qeZhuZlk
 
 - date: Thursday 3/3/22
   topic: Nonparametric Methods and Neural Networks
