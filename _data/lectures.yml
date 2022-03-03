@@ -162,6 +162,9 @@
   topic: Nonparametric Methods and Neural Networks
   resources: |
       - **Required**: [Statistical Modeling, The Two Cultures, by Leo Breiman](http://cda.psych.uiuc.edu/statistical_learning_course/breiman_two_cultures.pdf) (pp 1-11)
+  slides: |
+      - [Slides](https://docs.google.com/presentation/d/1Zfi31LeHGTQzRotkU0qXaks8NfduJjBsXetlUc4aKFo/edit)
+      - [Demo](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp22&subPath=lecture/lecture13/)
 
 - date: Tuesday 3/8/22
   topic: Neural Networks and Interpretability
