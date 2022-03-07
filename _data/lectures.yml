@@ -166,6 +166,8 @@
       - [Slides](https://docs.google.com/presentation/d/1Zfi31LeHGTQzRotkU0qXaks8NfduJjBsXetlUc4aKFo/edit)
       - [Demo](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp22&subPath=lecture/lecture13/)
   video: https://youtu.be/-2u_0khrGoI
+  lab: |
+      - [Lab 6](https://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Fsp22&urlpath=tree%2Fsp22%2Flabs%2Flab06%2Flab06.ipynb&branch=master)
 
 - date: Tuesday 3/8/22
   topic: Neural Networks and Interpretability
