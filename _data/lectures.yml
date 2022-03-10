@@ -187,6 +187,7 @@
       - [Notes 1: Association, correlation, and causation](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp22&subPath=lecture/lecture15/01_association_correlation_causation.ipynb)
       - [Notes 2: Quantifying association](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp22&subPath=lecture/lecture15/02_quantifying_association.ipynb)
       - [Notes 3: Causality and Potential Outcomes](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp22&subPath=lecture/lecture15/03_causality.ipynb)
+  video: https://youtu.be/IUIEsdQQWH0
 
 - date: Tuesday 3/15/22
   topic: Causal Inference II, Randomized experiments
