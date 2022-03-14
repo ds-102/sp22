@@ -195,7 +195,8 @@
   topic: Causal Inference II, Randomized experiments
   slides: |
       - Required reading: [discrimination in hiring](https://www.nytimes.com/2021/07/29/business/economy/hiring-racial-discrimination.html) and [skim the paper](https://www.nber.org/papers/w29053)
-  homework: HW 4 (due 4/1)
+  homework: |
+      - [HW 4](assets/homework/hw4.zip)
 
 - date: Thursday 3/17/22
   topic: Causal Inference III, Observational studies
