@@ -194,10 +194,10 @@
 - date: Tuesday 3/15/22
   topic: Causal Inference II, Randomized experiments
   slides: |
-      - Required reading: [discrimination in hiring](https://www.nytimes.com/2021/07/29/business/economy/hiring-racial-discrimination.html) and [skim the paper](https://www.nber.org/papers/w29053)
   homework: |
       - [HW 4](assets/homework/hw4.zip)
   slides: |
+      - Required reading: [Discrimination in hiring article](https://www.nytimes.com/2021/07/29/business/economy/hiring-racial-discrimination.html) ([pdf](https://drive.google.com/file/d/1oocOtWYRsrFS_CEzeSm_t3mlBqdHKUmw/view?usp=sharing)) and [skim the paper](https://www.nber.org/papers/w29053)
       - [Slides](https://docs.google.com/presentation/d/1wTfs-sKFSGa2ZJITF6-yi1tmBDpaSK7yggIVU_lgDuk/edit?usp=sharing)
       - [Notes: Causality and Potential Outcomes](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp22&subPath=lecture/lecture15/03_causality.ipynb)
       - [Notes: Instrumental Variables](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp22&subPath=lecture/lecture16/instrumental_variable_notes.ipynb)
