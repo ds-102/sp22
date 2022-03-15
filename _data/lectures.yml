@@ -201,6 +201,7 @@
       - [Slides](https://docs.google.com/presentation/d/1wTfs-sKFSGa2ZJITF6-yi1tmBDpaSK7yggIVU_lgDuk/edit?usp=sharing)
       - [Notes: Causality and Potential Outcomes](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp22&subPath=lecture/lecture15/03_causality.ipynb)
       - [Notes: Instrumental Variables](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp22&subPath=lecture/lecture16/instrumental_variable_notes.ipynb)
+  video: https://youtu.be/jcbIX9nZtkI
 
 - date: Thursday 3/17/22
   topic: Causal Inference III, Observational studies
