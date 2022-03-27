@@ -211,6 +211,8 @@
       - [Slides](https://docs.google.com/presentation/d/1LXa5RU_WnUZZ_9HeoMjdlYQAQldBTG35_192aiKc7c0/edit?usp=sharing)
       - [Notes: Instrumental Variables](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp22&subPath=lecture/lecture16/instrumental_variable_notes.ipynb)
   video: https://youtu.be/ggydwyOK7PQ
+  lab: |
+      - [Lab 8](https://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Fsp22&urlpath=tree%2Fsp22%2Flabs%2Flab08%2Flab08.ipynb&branch=master)
 
 - date: Tuesday 3/22/22
   topic: Spring Break
