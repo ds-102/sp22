@@ -224,6 +224,11 @@
   topic: Reinforcement Learning I
   discussion: |
     - [Discussion 8](assets/discussion/disc8.pdf)
+  slides: |
+    - [Slides](https://docs.google.com/presentation/d/1bWbddonlAYQNk77wvINEi_BpPC6iWrIqEhgkBpgvOqA/edit?usp=sharing)
+    - [Demo]
+      - [Demo](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp22&subPath=lecture/lecture18/dynamic_programming.ipynb)
+
 
 - date: Thursday 3/31/22
   topic: Reinforcement Learning II
