@@ -241,7 +241,8 @@
 
 - date: Tuesday 4/5/22
   topic: Concentration inequalities
-  homework: HW 5 (due 4/8)
+  homework: |
+   - [HW5](assets/homework/HW5.pdf)
 
 - date: Thursday 4/7/22
   topic: Bandits I
