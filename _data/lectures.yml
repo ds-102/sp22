@@ -248,6 +248,8 @@
   slides: |
     - [Slides](https://drive.google.com/file/d/1y_u0tYqoUxGzyYX4tsrHWpK17x3pJlTf/view?usp=sharing)
     - [Notes](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp22&subPath=lecture/lecture22/concentration.ipynb)
+    - [Annotated Slides](assets/notes/lecture22-classnotes.pdf)
+  video: https://youtu.be/K2ttVi4pMXQ
 
 - date: Thursday 4/7/22
   topic: Bandits I
