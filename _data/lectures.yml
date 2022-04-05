@@ -245,6 +245,9 @@
     - [Discussion 9](assets/discussion/disc9.pdf)
   homework: |
    - [HW5](assets/homework/HW5.pdf)
+  slides: |
+    - [Slides](https://drive.google.com/file/d/1y_u0tYqoUxGzyYX4tsrHWpK17x3pJlTf/view?usp=sharing)
+    - [Notes](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp22&subPath=lecture/lecture22/concentration.ipynb)
 
 - date: Thursday 4/7/22
   topic: Bandits I
