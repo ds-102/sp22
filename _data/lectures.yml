@@ -273,7 +273,8 @@
 
 - date: Tuesday 4/19/22
   topic: Differential Privacy
-  homework: HW 6 (due 4/28)
+  homework: |
+   - [HW6](assets/homework/HW6.pdf)
 
 - date: Thursday 4/21/22
   topic: Robustness and Generalization
