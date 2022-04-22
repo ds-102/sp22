@@ -277,8 +277,10 @@
    - [HW6](assets/homework/HW6.pdf)
   slides: |
     - [Slides](https://docs.google.com/presentation/d/1gRfc74bPJG7a1yn0XqsoMOUGdYkYVU70rVpvxKA09Zc/edit#slide=id.g124fa96800a_2_48)
+    - [Annotated](assets/notes/25-privacy-notes.pdf)
   discussion: |
     - [Discussion 10](assets/discussion/disc10.pdf)
+  video: https://youtu.be/U5W3GyGHobI
 
 - date: Thursday 4/21/22
   topic: Robustness and Generalization
